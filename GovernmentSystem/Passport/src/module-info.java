@@ -1,0 +1,3 @@
+module Passport {
+    exports GovPassport;
+}
